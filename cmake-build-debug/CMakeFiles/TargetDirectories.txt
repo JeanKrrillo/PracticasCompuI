@@ -1,0 +1,3 @@
+C:/Users/Jean/Documents/GitHub/PracticasCompuI/cmake-build-debug/CMakeFiles/PracticasCompuI.dir
+C:/Users/Jean/Documents/GitHub/PracticasCompuI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jean/Documents/GitHub/PracticasCompuI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
